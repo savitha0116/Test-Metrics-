@@ -1,0 +1,8 @@
+                                            Test Metrics
+Test Metrics are quantitative measures used to evaluate the effectiveness, efficiency, and quality of software testing. They help teams identify areas for improvement, optimize testing processes, and ensure high-quality products.
+Examples:
+1. Test Coverage: 80% of code covered by unit tests, 60% by integration tests
+2. Defect Density: 0.5 defects per KLOC (thousand lines of code)
+3. MTTD: 2 hours to detect a defect
+4. Test Execution Time: 4 hours to execute 1000 tests
+
