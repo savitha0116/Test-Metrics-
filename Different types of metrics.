@@ -1,0 +1,13 @@
+                             Different types of metrics
+Types of Test Metrics:
+1. Process Metrics: Measure the testing process itself, such as:
+    - Test Coverage: Percentage of code or functionality covered by tests
+    - Test Execution Time: Time taken to execute tests
+    - Defect Detection Rate: Number of defects found per unit of time
+2. Product Metrics: Measure the quality of the product, such as:
+    - Defect Density: Number of defects per unit of code or functionality
+    - Mean Time To Detect (MTTD): Average time taken to detect a defect
+    - Mean Time To Fix (MTTF): Average time taken to fix a defect
+3. Project Metrics: Measure project progress and status, such as:
+    - Test Progress: Percentage of tests executed
+    - Defect Fix Rate: Number of defects fixed per unit of time
