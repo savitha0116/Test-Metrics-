@@ -1,0 +1,7 @@
+                  What is Risk-Based Testing and when will you use that?
+Risk-Based Testing (RBT) is a testing approach that prioritizes testing efforts based on the risk of defects and their potential impact on the system or business. It involves identifying, assessing, and prioritizing risks, and then focusing testing efforts on the most critical areas.
+  When to Use Risk-Based Testing:
+1. Limited Time and Resources: When time and resources are limited, RBT helps focus on the most critical areas.
+2. High-Risk Systems: Systems with high risk or impact, such as safety-critical or financial systems.
+3. Complex Systems: Systems with complex functionality or integrations.
+4. Changing Requirements: When requirements are changing or unclear.
